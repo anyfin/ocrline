@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/karolusz/ocrline"
+	"github.com/anyfin/ocrline"
 )
 
 // ServiceCode is a custom type that implements Marshaler/Unmarshaler.
